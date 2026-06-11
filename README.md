@@ -1,5 +1,24 @@
 🩺 Health Insurance Prediction Model
-Business Intelligence & Data Science Project — Predicting Insurance Claim Costs
+Executive Summary (add at the top)
+Predictive Analytics for Health‑Insurance Claims  
+This project demonstrates how data‑driven modeling can help insurers forecast claim costs and optimize premium pricing. Using Python and regression algorithms, the solution transforms raw customer data into actionable insights for underwriting and compliance teams.
+
+# Recruiter‑Facing Enhancements
+Tone: Keep it consultative — emphasize business impact, not just code.
+
+Visuals: Add one Power BI screenshot or model‑performance chart under “Results.”
+
+Metrics: Quantify outcomes — e.g., “Reduced manual estimation time by 30%,” “Improved forecast accuracy to 75% R².”
+
+Keywords: Include “Business Intelligence,” “Life Sciences Analytics,” “Predictive Modeling,” and “Data‑Driven Decision Making” for ATS visibility.
+
+Call‑to‑Action: End with a short line inviting collaboration:
+
+“This project reflects my approach to building scalable BI solutions for healthcare and life‑sciences clients.”
+===================================================================================================
+
+
+#Business Intelligence & Data Science Project — Predicting Insurance Claim Costs
 
 #@ Project Overview
 In the health‑insurance industry, accurately forecasting claim expenses is critical for pricing policies, managing risk, and improving customer retention. This project demonstrates how predictive analytics can help insurers estimate claim amounts based on customer demographics and lifestyle factors.
