@@ -1,21 +1,25 @@
-#🩺 Health Insurance Prediction Model
-
+🩺# Health Insurance Prediction Model
 
 #Executive Summary 
-Predictive Analytics for Health‑Insurance Claims  
+Predictive Analytics for Health‑Insurance Claims - 
 This project demonstrates how data‑driven modeling can help insurers forecast claim costs and optimize premium pricing.
 Using Python and regression algorithms, the solution transforms raw customer data into actionable insights for underwriting and compliance teams.
 
-#Business Intelligence & Data Science Project — Predicting Insurance Claim Costs
+Business Intelligence & Data Science Project — Predicting Insurance Claim Costs
 
-# Project Overview
+# Project Overview-
+
 In the health‑insurance industry, accurately forecasting claim expenses is critical for pricing policies, managing risk, and improving customer retention. This project demonstrates how predictive analytics can help insurers estimate claim amounts based on customer demographics and lifestyle factors.
 
 Using Python, Pandas, and Scikit‑Learn, the model applies Linear Regression, Ridge, and Lasso Regression techniques to predict insurance costs. The workflow reflects a real‑world BI use case — transforming raw data into actionable insights for underwriting and pricing teams.
 
  #Business Problem
+ 
 Insurance companies often struggle to balance premium pricing with claim payouts. Manual estimation leads to inefficiencies and inconsistent risk assessment.
-Objective: Build a supervised machine‑learning model that predicts how much a client will claim, based on key variables such as age, BMI, smoking status, and region.
+
+#Objective: 
+
+Build a supervised machine‑learning model that predicts how much a client will claim, based on key variables such as age, BMI, smoking status, and region.
 
 # Data Description
 Dataset: insurance.csv  
@@ -35,7 +39,7 @@ region — Residential area
 
 expenses — Historical insurance claim amount (target variable)
 
-⚙️ Methodology
+ #Methodology
 Data Exploration & Cleaning
 
 Checked data types, null values, and unique counts.
