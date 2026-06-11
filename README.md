@@ -1,9 +1,10 @@
-🩺 Health Insurance Prediction Model
+#🩺 Health Insurance Prediction Model
 
 
-Executive Summary (add at the top)
+#Executive Summary 
 Predictive Analytics for Health‑Insurance Claims  
-This project demonstrates how data‑driven modeling can help insurers forecast claim costs and optimize premium pricing. Using Python and regression algorithms, the solution transforms raw customer data into actionable insights for underwriting and compliance teams.
+This project demonstrates how data‑driven modeling can help insurers forecast claim costs and optimize premium pricing.
+Using Python and regression algorithms, the solution transforms raw customer data into actionable insights for underwriting and compliance teams.
 
 #Business Intelligence & Data Science Project — Predicting Insurance Claim Costs
 
