@@ -100,6 +100,6 @@ Enhance customer segmentation and policy personalization.
 
 Support data‑driven compliance and audit reporting.
 
-“This project reflects my approach to building scalable BI solutions for healthcare and life‑sciences clients.”
+This project reflects my approach to building scalable BI solutions for healthcare and life‑sciences clients.
 ===================================================================================================
 
